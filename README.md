@@ -1,38 +1,34 @@
-ember-fullcalendar
-==============================================================================
+# ember-fullcalendar
 
-[Short description of the addon.]
+An Ember addon that wraps [fullcalendar](https://fullcalendar.io/) in a component.
 
 
-Compatibility
-------------------------------------------------------------------------------
+## Compatibility
 
 * Ember.js v3.4 or above
 * Ember CLI v2.13 or above
 * Node.js v8 or above
 
 
-Installation
-------------------------------------------------------------------------------
+## Installation
 
 ```
 ember install ember-fullcalendar
 ```
 
 
-Usage
-------------------------------------------------------------------------------
+## Usage
 
-[Longer description of how to use the addon in apps.]
+```
+<FullCalendar />
+```
 
 
-Contributing
-------------------------------------------------------------------------------
+## Contributing
 
 See the [Contributing](CONTRIBUTING.md) guide for details.
 
 
-License
-------------------------------------------------------------------------------
+# License
 
 This project is licensed under the [MIT License](LICENSE.md).
