@@ -1,5 +1,7 @@
 # ember-fullcalendar
 
+[![CircleCI](https://circleci.com/gh/mariana-tek/ember-fullcalendar.svg?style=svg)](https://circleci.com/gh/mariana-tek/ember-fullcalendar)
+
 An Ember addon that wraps [fullcalendar](https://fullcalendar.io/) in a component.
 
 
