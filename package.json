@@ -1,6 +1,6 @@
 {
   "name": "@mariana-tek/ember-fullcalendar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An ember add-on for FullCalendar",
   "keywords": [
     "calendar",
