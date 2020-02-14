@@ -1,1 +1,1 @@
-export { default } from 'ember-fullcalendar/components/full-calendar';
+export { default } from '@mariana-tek/ember-fullcalendar/components/full-calendar';

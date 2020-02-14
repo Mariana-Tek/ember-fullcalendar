@@ -1,13 +1,15 @@
 {
-  "name": "ember-fullcalendar",
+  "name": "@mariana-tek/ember-fullcalendar",
   "version": "1.0.0",
-  "description": "An ember wrapper around FullCalendar",
+  "description": "An ember add-on for FullCalendar",
   "keywords": [
-    "ember-addon"
+    "calendar",
+    "ember-addon",
+    "event",
+    "full-sized"
   ],
-  "repository": "https://github.com/Mariana-Tek/ember-fullcalendar",
+  "repository": "https://github.com/mariana-tek/ember-fullcalendar",
   "license": "MIT",
-  "author": "",
   "directories": {
     "doc": "doc",
     "test": "tests"
